@@ -1,0 +1,6 @@
+UltrasonicSensor	KEYWORD1
+begin	KEYWORD2
+request	KEYWORD2
+median	KEYWORD2
+getVal	KEYWORD2
+readVal	KEYWORD2
