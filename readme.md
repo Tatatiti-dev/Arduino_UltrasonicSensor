@@ -13,3 +13,5 @@ This library can read the distance from the sensor, return last measured value a
  - Arduino Pro Mini
  - Arduino Mini
  - Arduino Lilypad
+### Reference link:
+<https://tatatiti.wz.cz/english/arduino-hcsr04-reference.html>
